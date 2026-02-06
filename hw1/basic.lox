@@ -1,0 +1,10 @@
+print "Hello, world!";
+print 1 + 2 * 3;
+
+print true and "right";
+print false and "right";
+
+var a;
+print a;
+a = 345;
+print a;
